@@ -1,7 +1,7 @@
 {
     "name": "Lib News Center",
     "short_name": "Libnewscenter",
-    "description": "Plce where news can be found",
+    "description": "Place where news can be found",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#FF0000",
@@ -10,7 +10,7 @@
     "orientation": "portrait",
     "icons": [
     {
-      "src": "/img/new1.png",
+      "src": "/img/icon/new1.png",
       "sizes": "192x192",
       "type": "image/png"
     }
